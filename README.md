@@ -82,3 +82,17 @@ Screenshots are in `docs/` (sanitized: no real hostnames, IPs, or personal data)
 ## Disclaimer
 
 This lab runs on isolated virtual machines for learning only. All accounts and passwords are lab-only.
+
+## Screenshots
+
+### Detection dashboard
+![Dashboard](docs/dashboard.png)
+
+### Detection rules
+![Rules](docs/rules.png)
+
+### Alert history (Active, then Recovered)
+![Alerts](docs/alerts.png)
+
+### Events collected from DC01
+![Discover](docs/discover.png)
