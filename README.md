@@ -96,3 +96,9 @@ This lab runs on isolated virtual machines for learning only. All accounts and p
 
 ### Events collected from DC01
 ![Discover](docs/discover.png)
+
+## Author
+
+Eng. Abbas Omer.
+
+GitHub: [abbasol](https://github.com/abbasol)
